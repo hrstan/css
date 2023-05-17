@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1 { 
+    color: green;
+}
+h2{ 
+    color: darkgreen
+}
+#economy h2 { 
+    color: rgba(236, 194, 4, 0.952);
+}
+.creation-date { 
+    color: #888686;
+}
