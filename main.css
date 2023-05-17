@@ -3,15 +3,19 @@
     margin: 0;
     padding: 0;
 }
-h1 { 
-    color: green;
+header li{
+    display: inline;
 }
-h2{ 
-    color: darkgreen
+.container { 
+    width: 80%;
+    margin: 0 auto; 
 }
-#economy h2 { 
-    color: rgba(236, 194, 4, 0.952);
+.articles{ 
+    display: flex;
 }
-.creation-date { 
-    color: #888686;
+.articles article img{ 
+    height: 180px;
+}
+.articles article { 
+    width: 30%;
 }
