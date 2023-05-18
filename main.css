@@ -85,13 +85,16 @@ section h2 {
 #esportes .articles a{
     background-color: #ffffff2f; 
     font-weight: bold;
-    margin-top: 9px;
-    
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 #economy { 
-    background-color: rgb(165, 241, 184);
+    background-color: rgb(83, 83, 83);
 
 }
 #economy .articles article a { 
-    background-color: rgba(224, 255, 114, 0.651);
+    background-color: rgba(0, 0, 0, 0.897);
+}
+#economy .articles img { 
+    width: 200px;
 }
