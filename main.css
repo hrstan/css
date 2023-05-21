@@ -41,6 +41,9 @@ header li a {
    /* height: 180px; */
    width: 100%;
 }
+.articles video{ 
+    width: 50%;
+}
 .articles article { 
     width: 30%;
 }
@@ -89,7 +92,7 @@ section h2 {
     margin-bottom: 10px;
 }
 #economy { 
-    background-color: rgb(83, 83, 83);
+    background-color: rgb(250, 207, 207);
 
 }
 #economy .articles article a { 
@@ -97,4 +100,10 @@ section h2 {
 }
 #economy .articles img { 
     width: 200px;
+}
+#flatv { 
+    background-color: #ce222b;
+}
+#var{ 
+    background-color: #ff9900ce;
 }
